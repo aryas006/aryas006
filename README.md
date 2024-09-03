@@ -8,7 +8,7 @@
 - Web 3.0 Integration :  
   Bridging decentralized backends with user-friendly front-ends to bring blockchain technology closer to everyday users.
 
-- App Development**:  
+- App Development :  
   Exploring innovative approaches to creating seamless, user-friendly applications that integrate with Web 3.0 technologies.
 
 - Web Development :  
