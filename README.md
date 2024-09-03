@@ -2,21 +2,19 @@
 
 🌱 My Playground Highlights:
 
-#Playground Highlights
-
-** Solidity Projects**:  
+- Solidity Projects :  
   Building hands-on experience with Solidity, focusing on real-world solutions like crowdfunding campaigns and token creation.
 
-** Web 3.0 Integration**:  
+- Web 3.0 Integration :  
   Bridging decentralized backends with user-friendly front-ends to bring blockchain technology closer to everyday users.
 
-** App Development**:  
+- App Development**:  
   Exploring innovative approaches to creating seamless, user-friendly applications that integrate with Web 3.0 technologies.
 
-** Web Development**:  
+- Web Development :  
   Developing modern web applications that connect decentralized solutions with intuitive user experiences.
 
-** Machine Learning and AI Integration**:  
+- Machine Learning and AI Integration :  
   Exploring intelligent chatbots, predictive models, and other AI applications to enhance and optimize projects across various domains.
 
 
